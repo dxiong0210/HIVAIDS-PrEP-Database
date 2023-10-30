@@ -2,7 +2,7 @@
 
 # Tableau Dashboard is the attached twb file, data source is the labeled csv
 
-#The Excel dashboard for this database can be found here: 
+The Excel dashboard for this database can be found here: 
 # https://rutgersconnect-my.sharepoint.com/:x:/g/personal/smz62_scarletmail_rutgers_edu/Ebl7xKOYYP1CrYuUMbBfdK0BlV_UuIKESOd9ZKMI4hGDjA?e=7WxOXZ
 
 # data sheets used:
